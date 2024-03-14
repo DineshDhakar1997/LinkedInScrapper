@@ -1,0 +1,236 @@
+LIST
+Python
+JavaScript
+Java
+C/C++
+Ruby
+Swift
+Go
+PHP
+Kotlin
+Rust
+HTML
+CSS
+React
+Angular
+Vue.js
+Bootstrap
+Materialize
+Django
+Flask
+Express.js
+Laravel
+Android
+iOS
+Objective-C
+SQL
+MySQL
+PostgreSQL
+SQLite
+NoSQL
+MongoDB
+Cassandra
+Firebase
+AWS
+Azure
+GCP
+CI/CD
+Docker
+Kubernetes
+Terraform
+Ansible
+Puppet
+Chef
+TensorFlow
+PyTorch
+Scikit-learn
+NLP
+Computer Vision
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Statistical Modeling
+Network Security
+Cryptography
+Penetration Testing
+Ethical Hacking
+Solidity
+DApps
+DLT
+Linux
+Unix
+Windows
+MacOS
+Git
+SVN
+Selenium
+BeautifulSoup
+Puppeteer
+RESTful APIs
+GraphQL
+SOAP
+Agile
+Scrum
+Kanban
+Waterfall Model
+DevOps
+React.js
+Ruby on Rails
+React Native
+Ionic
+Xamarin
+Flutter
+NativeScript
+Node.js
+Spring Boot
+ASP.NET Core
+UI Testing Frameworks
+Cypress
+TestCafe
+Protractor
+Data Science
+Machine Learning Frameworks
+Keras
+Spark MLlib
+Frontend Testing Frameworks
+Jest
+Mocha
+Jasmine
+Enzyme
+Karma
+Web Scraping Frameworks
+Scrapy
+API Development Frameworks
+Django REST Framework
+ASP.NET Web API
+Ruby on Rails
+
+JavaScript Frameworks
+Backbone.js
+Ember.js
+CSS Frameworks
+Foundation
+Bulma
+Semantic UI
+Materialize CSS
+Testing Frameworks
+JUnit
+NUnit
+XCTest
+pytest
+Microservices Frameworks
+Spring Cloud
+Micronaut
+Lagom
+Seneca
+Service Fabric
+Web Application Frameworks
+ASP.NET
+MVC
+Backend as a Service (BaaS) Frameworks
+Parse
+Backendless
+Kinvey
+AWS Amplify
+Serverless Frameworks
+AWS Serverless Application Model
+SAM
+Serverless Framework
+Azure Functions
+Google Cloud Functions
+OpenWhisk
+Apache Storm
+Apache Spark
+Elasticsearch
+Redis
+Java
+Python
+Big data tool sets
+Distributed storage
+Computation engine
+Cloud-based CI/CD tools
+CI/CD
+Cloud DevOps
+Multi-cloud production environment
+Embedded systems
+C/C++
+c++
+Scripting languages
+bash
+CMake
+Git
+GNU coreutils
+Linux
+Real-time operating systems
+RTOS
+Angular
+HTML5
+CSS3
+RESTful
+Web Services
+JSON
+MVC design patterns
+AJAX
+JavaScript libraries
+plugins
+Material Design
+Cross-browser compatibility
+Version control tools
+Git
+Mercurial
+SVN
+Debugging
+troubleshooting
+Snowflake Architecture
+SnowSQL
+AVRO
+PARQUET
+SQL
+Unix
+Unix Shell Scripting
+NDM
+sFTP
+TWS
+Schedulers
+Python Programming
+Spark
+Pyspark
+Databricks
+Kafka
+Ni-fi
+AWS
+Azure
+GCP
+Data Warehousing Environment
+Datastage
+Oracle
+Mainframe
+React JS
+NextJS
+TypeScript
+.Net Core API
+Azure App Services
+Azure Static Web Apps
+Azure Function App
+Azure Synapse
+Data Engineering
+Data Management
+Azure Data Lake Storage
+Azure Monitor
+Azure Data Factory
+Azure Stream Analytics
+Azure Data Catalog
+RDBMS design
+SQL Server
+Oracle
+Python or R for data manipulation and analysis
+Knowledge of scientific data software
+Medical devices
+Healthcare software
+Full Stack Development
+Azure DevOps
+FastAPI
+.NET
+C#
